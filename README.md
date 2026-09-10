@@ -41,7 +41,7 @@ A minimal, full-stack GraphQL API project built with native PHP and SQLite, feat
 **-You can also use tools like Postman to send queries directly to http://localhost:8000/index.php**
 
 ## Project Structure
-    **src/ - Contains core PHP classes (Database.php, Auth.php, Schema.php).**
-    **public/index.php - The main GraphQL endpoint.**
-    **index.html - The vanilla JavaScript frontend.**
-    **init_db.php - Database initialization script.**
+    src/ - Contains core PHP classes (Database.php, Auth.php, Schema.php).
+    public/index.php - The main GraphQL endpoint.
+    index.html - The vanilla JavaScript frontend.
+    init_db.php - Database initialization script.
